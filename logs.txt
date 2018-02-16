@@ -1,0 +1,4 @@
+This is the log file for PhotoRenamer:
+Format: old name, new name, date
+tst@13@76.png , tst.png , 2016/11/27 16:51:50
+tst.png , tst@1@21@asd.png , 2016/11/27 16:51:58
